@@ -33,10 +33,10 @@ The script assumes the target is a domain or hostname (e.g., `machine.htb`) that
 ## Usage
 
 Run the script with a single argument: the target domain or hostname.
-./htb-recon.zsh <target></target>
+./ReconScript.sh <target></target>
 
 Example:
-./htb-recon.zsh machine.htb
+./ReconScript.sh machine
 
 ### Output
 
